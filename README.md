@@ -36,12 +36,6 @@ Try this prompt: "How much did I spend on food this month, and am I over my budg
 ## Tech stack
 Next.js, React, TypeScript, Tailwind CSS, Supabase, Gemini API (function calling), Zod, Vercel
 
-## Team
-| Name | Role |
-| --- | --- |
-| Avishi Choubey | Team Lead & Database |
-| <Member 2 Name> | Frontend & Backend / API |
-| <Member 3 Name> | AI / Agent |
 
 ## Run it locally
 1. `npm install`
